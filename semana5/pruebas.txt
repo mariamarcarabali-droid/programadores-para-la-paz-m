@@ -1,0 +1,3 @@
+En la primera ruta,sale el mensaje de"servidor activo"
+en la segunda ruta,sale el mensaje"Hola comunidad"
+En la tercera ruta,sale el mensaje"Hola juan" 

@@ -1,0 +1,8 @@
+¿que hace esta ruta?
+la ruta post/reporte es como un buzon para recibir mensajes.cuando alguien manda un reporte desde la app,el servidor lo abre,lee que dice en el campo mensaje y responde:"listo,ya recibi tu reporte"usa POST porque es la forma correcta cuando queremos enviarle informacion nueva al servidor,no solo pedirle datos
+
+¿Para qué podría servir en una aplicación comunitaria.?
+serviria para que la gente del barrio pueda avisar de cualquier problema facilmente.cualquier problema entra a la app y manda el reporte.el servidor lo recibe y ya los encargados pueden enterarse rapido para solucionarlo.
+
+respuesta del servidor:
+{"estado":"Reporte recibido","mensaje":"Reporte de prueba enviado por la comunidad"} 
