@@ -1,0 +1,5 @@
+Repositorio:Para mí, un repositorio es el lugar donde se guarda todo lo relacionado con un proyecto: archivos, carpetas y cambios realizados. Es muy útil porque ayuda a mantener el trabajo organizado y permite encontrar versiones anteriores si se necesita revisar o corregir algo.
+
+ Commit:Un commit es una forma de guardar el progreso que se ha hecho en un proyecto. Cada vez que realizamos cambios importantes, podemos hacer un commit para dejar constancia de lo que modificamos y así llevar un mejor control del trabajo.
+
+ Push:El push sirve para enviar a GitHub los cambios que hemos hecho en nuestro computador o en Codespaces. Gracias a esta acción, el proyecto se mantiene actualizado y los demás integrantes del equipo pueden ver y utilizar la versión más reciente.
