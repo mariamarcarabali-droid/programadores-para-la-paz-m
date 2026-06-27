@@ -1,0 +1,12 @@
+ Crear una cuenta de correo electrónico
+
+Abrir el navegador.
+Ingresar al sitio del servicio de correo.
+Hacer clic en "Crear cuenta".
+Escribir los datos personales.
+Elegir un nombre de usuario.
+Crear una contraseña segura.
+Confirmar la contraseña.
+Aceptar los términos y condiciones.
+Verificar la cuenta.
+Iniciar sesión. 
