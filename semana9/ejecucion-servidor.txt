@@ -1,0 +1,8 @@
+ Qué ocurre cuando ejecutas node server.js
+ al ejecutar el comando node server.js inicia el servidor que esta progrmado en el archivo server.js,el servidor se queda escuchando en el puerto 3000.
+
+Qué mensaje aparece en la terminal.
+servidor ejecutandose en el puerto 3000
+
+Qué sucede cuando visitas la ruta /estado.
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
