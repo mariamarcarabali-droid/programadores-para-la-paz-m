@@ -1,0 +1,5 @@
+ 1. Utilizar contraseñas seguras y cambiarlas periódicamente para evitar accesos no autorizados.
+2. Activar la autenticación en dos pasos para añadir una capa extra de seguridad a las cuentas.
+3. Asignar roles y permisos según las funciones de cada usuario dentro de la plataforma.
+4. Mantener el sistema y las aplicaciones actualizadas para corregir vulnerabilidades de seguridad.
+5. Realizar copias de seguridad periódicas para proteger la información ante pérdidas o fallos del sistema.

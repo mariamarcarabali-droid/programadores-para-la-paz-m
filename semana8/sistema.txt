@@ -1,0 +1,14 @@
+¿Qué información muestra cada comando? 
+uname -a
+Linux codespaces-1198f2 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+whoami
+codespace
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Compatibilidad: Antes de instalar software, debes saber si el servidor es Linux, Windows, Ubuntu, Debian, etc. y qué arquitectura tiene `x86_64`, `arm`. Así evitas instalar programas que no van a funcionar
+
+Seguridad: Con `uname -a` ves la versión del kernel. Si hay una vulnerabilidad conocida en esa versión, puedes actualizarla. Con `whoami` verificas que no estás ejecutando comandos peligrosos como `root` por accidente
+
+Diagnóstico y Soporte: Si algo falla, el primer dato que te pide soporte técnico es "¿qué sistema operativo y versión usas?" y "¿con qué usuario estás?". Te ahorra tiempo al buscar soluciones específicas.
